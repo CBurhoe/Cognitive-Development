@@ -1,0 +1,119 @@
+object permanence
+
+what do errors mean?
+
+piaget: lack of object permanence in infants
+
+cog neuroscience view: immature working memory, frontal cortex. errors in A not B depend on length
+  of time between observing oject disappear and search (A. Diamond)
+
+cascading developmental effects view: repeated training at one location pulls vis attention/motoric responses into entraining effect
+  responses will continue even in absence of target(...)
+
+
+object permanence in 3.5 and 4.5 month olds (Baillargeon, 1987)
+- 3.5 and 4.5 month old infants
+experiment 1: 
+  - 4.5 month olds
+  - measuring looking time
+  - screen rotating back and forth 180-degrees
+  - habituation trials, then control or experimental condition
+    - box or no box, possible or impossible events
+  - look longer at impossible events
+experiment 2:
+  - 3.5 month olds
+  - at first, no significant differesne between possible and impossible
+  - then divided into fast and slow habituators
+    - fast habituators: look longer at impossible vs possible event
+    - slow habituators: no difference in looking time between possible and impossible events
+
+results:
+  - infants mentally represent object when they go out of view
+  - there's more...
+  - deformability changes with material (rigid/non-rigid): 7.5 month olds are ables to reason about occlusions of soft objects
+    vs rigid objects
+  - objects occupy a particular sized space: 6.5 month olds detect an 80% violation (intrusion) into the objects space
+  - (...)
+
+innate knowledge and learning in event categories (Baillargeon, 2004)
+- infants have innate knowledge of general principles of objects and events
+- continuity: objects exist continuously in time and space
+- solidity: two objects cannot exist at the same time in the same space
+
+
+violations detected by 2.5 month olds:
+- occlusion
+- containment
+- covering
+
+innate knowledge and learning in event categories
+- however they must learn about the specific properties of individual objects and how those properties interact with specific event types
+  - height of objects: understood earlier in occlusion than containment events (4.5 vs 7.5 months)
+  - height of objects: earlier in containment than in covering (9 vs 12 months)
+  - transparency: understood earlier in occlusion than containment events (7.5 vs 10 months)
+- although 4.5 month olds detect height violations in occlusion events, they do not do so until 7.5 months for containment events
+- although 9 month olds detect height violations in containment events, they do not do so until 10 months for covering events
+- although 7.5 month olds detect violations of transparency in occlusion events, they do not do so in containment until 10 months
+
+predictions:
+- infants who have not yet identified a variable as relevant should fail to detect changes involving the variable (e.g. not notice height change in covering event
+  if have not yet identified it as relevant)
+- infants should be trainable: if show contrastive events in which variable X (e.g. height) is relevant (e.g. covering), then infant should learn
+  that height is relevant and now detect violations
+
+
+
+
+numbers
+
+piaget on number in children
+- when a 5 yo sees a quantity of liquid poured into a new container that alters its immediate perceptual qualities, the child reports that the amount has changed
+
+conservations
+- for piaget the mature concept of number/quantity brings with it the understanding that certain transformations are irrelevant, while others are relevant
+- this same interpretation holds whether we are dealing with continuous quantities (fluids) or discontinuous quantities (objects)
+- if piagets interpretation is correct, then we should not be able to "train" conservations
+  - and indeed many experiments have tried and failed
+- but Michelle Gelman provided counterevidence
+
+gelman, 1969
+- task: odd man out
+  - pick which row of dots/line does not match the others
+- gelman: young children fail to conserve because of inattention to relevant quantitative relationships and attention to irrelevant features in classical conservation tests
+- evidence: after training, posttests of conservation showed near perfect specific (length and number) and ~60% nonspecific (mass and liquid amount) transfer of training
+- training effect persisted for at least 2-3 weeks
+- so far, evidence shows tha tnumber is a part of the childs conceptual repertoire
+- i.e. children can solve problems that involve numerical inequalities
+
+
+magic show experiments (gelman, 1972)
+- train which is winner, loser
+- make changes to winner
+- study reactions to unexpected subtractions and additions vs displacements
+- measure looking times
+  - if experimenter removed a mouse from winner plate but left length of row constant, children surprised
+  - if experimenter changed the length of the row of mice, children not surprised, assumed 3 mice plate still winner
+  - children realize that changing spatial arrangement of objects does not change their number
+  - children know what transformations are relevant
+    - for number, adding or subtracting, not rearranging
+
+infant number discrimination
+- e.g. 2 vs 3 in habituation studies
+  - for visual displays
+  - sequence of sounds
+  - sequences of actions
+
+wynn's jumping studies
+- infants are habituated to a puppet jumping 2 or 3 times, then tested with 2 vs 3 jumps
+- they dishabituated to the new number of jumps
+
+wynn, 1992
+- 5 month olds
+- habituation
+- longer looking times in unexpected cases
+- if infants are responding to 1+1 by simply looking at the array with more or less, then they might not anticipate exactly 2
+- but in fact they look longer to a display of 3 when the correct outcome is 2
+- so even infants are able to represent number, and respond to discrepancies between expected and actual numbers as objects are added to or subtracted from arrays
+- then why do 5 y/o fail conservation task
+  - pragmatics?
+  - task puzzles undergraduates...
